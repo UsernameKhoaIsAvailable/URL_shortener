@@ -1,5 +1,4 @@
 from flaskr.app import db
-from flaskr.app import db
 
 
 class Link(db.Model):
