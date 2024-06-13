@@ -1,4 +1,4 @@
-from .app import app, db
+from flaskr.app import app, db
 from flaskr.routes.homepage import homepage
 from flaskr.routes.user_management import user_management
 from flaskr.routes.link_management import link_management
