@@ -16,4 +16,4 @@ app.register_blueprint(mail_blueprint)
 if __name__ == "__main__":
     with app.app_context():
         db.create_all()
-    app.run(debug=True, host="192.168.1.64")
+    app.run(debug=True, host="0.0.0.0")
