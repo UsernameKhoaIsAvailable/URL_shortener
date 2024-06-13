@@ -16,7 +16,7 @@
 |  Column name  | Data type | Note        |
 |:-------------:|:---------:|-------------|
 |      Id       |  String   | PRIMARY KEY |
-|     Slug      |  String   |             |
+|     Alias     |  String   |             |
 |   Long_URL    |  String   |             |
 | Link_password |  String   |             |
 |  Click_times  |    int    |             |
